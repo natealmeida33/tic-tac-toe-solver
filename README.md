@@ -13,7 +13,7 @@
      - anyMovesLeft() --> `true: ${count}` or `false`
      - isGameOver() --> `true` or `false`
      - checkWinner(`x`) --> `true` or `false`
-     - checkWinner(`y`) --> `true` or `false`
+     - checkWinner(`o`) --> `true` or `false`
 
 ### UNIT TESTING:
 
